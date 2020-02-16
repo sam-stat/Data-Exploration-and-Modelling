@@ -1,5 +1,5 @@
 Problem Statement:
-------------------
+--------------------
 We have data associated with fuel consumption in miles per gallon for the city of California.
 Along with the fuel consumption details we also have other information about the car including
 horsepower, acceleration, model, etc.
